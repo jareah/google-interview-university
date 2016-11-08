@@ -123,17 +123,11 @@ Many items are from Steve Yegge's "[Get that job at Google](http://steve-yegge.b
 ## Почему этим следует пользоваться
 
 Я следую этому плану для того, чтобы подготовиться к интервью в Google. Я занимался web-разработкой, разработкой сервисов и запуском
-стартапов с 1997 года. У меня есть высшее образование в сфере экономики, а не в сфере компьютерных наук. Моя карьера была очень успешной, но я хочу работать в Google. Я хочу развиваться в более крупных системах и реально понять компьютерные системы, эффективность алгоритмов, производительность структур данных, низкоуровневые языки и как это все работает. И если ты ничего из этого не знаешь, Google тебя не наймет.
+стартапов с 1997 года. У меня есть высшее образование в сфере экономики, а не в сфере компьютерных наук. Моя карьера была очень успешной, но я хочу работать в Google. Я хочу развиваться в более крупных системах и по-настоящему понять компьютерные системы, эффективность алгоритмов, производительность структур данных, низкоуровневые языки программирования и как это все работает. И если ты ничего из этого не знаешь, Google тебя не наймет.
 
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
-Every data structure I've ever used was built into the language, and I didn't know how they worked
-under the hood at all. I've never had to manage memory, unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and
-thousands of associative arrays, but I've never created data structures from scratch.
+Когда я начал этот проект, я не отличал стэка от кучи, ничего не знал о Big-O, деревьях или о том, как обойти граф. Если мне надо было бы написать алгоритм сортировки, могу сказать, что он был бы не очень хорошим. Каждая структура данных, которую я когда-либо использовал, была встроена в язык, и я совершенно не знал как они устроены внутри. Мне никогда не приходилось заботиться о памяти, разве что если запущенный мной процесс выдавал "out of memory" ошибку и тогда я должен был бы искать обходные пути. В своей жизни я несколько раз использовал многомерные массивы и тысячи раз ассоциативные массивы, но я никогда не создавал структуры данных с нуля.
 
-But after going through this study plan I have high confidence I'll be hired. It's a long plan. It's going to take me
-months. If you are familiar with a lot of this already it will take you a lot less time.
+Я уверен, что я получу работу после прохождения этого учебного плана. Это долгосрочный план. Его реализация займет месяцы. Если Вы уже знакомы со многим из этого, у Вас это займет намного меньше времени.
 
 ## How to use it
 
