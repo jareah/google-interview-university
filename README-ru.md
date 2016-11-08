@@ -1,8 +1,8 @@
 # Университет интервью в Гугл
 
 Переводы:
-- [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
-- [English](https://github.com/jwasham/google-interview-university/blob/master/README.md)
+- [中文版本](https://github.com/jareah/google-interview-university/blob/master/README-cn.md)
+- [English](https://github.com/jareah/google-interview-university/blob/master/README.md)
 
 ## Что это?
 
