@@ -13,8 +13,8 @@
 
 Этот длиный список был извлечен из **Google's coaching notes** и расширен. Таким образом, это те вещи, которые тебе необходимо знать.
 В конце я добавил несколько дополнительных пунктов, которые могут встретиться на интервью или быть полезными при решении проблем.
-Many items are from Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected
-sometimes word-for-word in Google's coaching notes.
+Many items are from Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected sometimes word-for-word in Google's coaching notes.
+Многие вещи взяты из "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" от Steve Yegge и, порой, дословно повторяют заметки по коучингу от Google.
 
 ---
 
@@ -122,11 +122,8 @@ sometimes word-for-word in Google's coaching notes.
 
 ## Почему этим следует пользоваться?
 
-I'm following this plan to prepare for my Google interview. I've been building the web, building
-services, and launching startups since 1997. I have an economics degree, not a CS degree.  I've
-been very successful in my career, but I want to work at Google. I want to progress into larger systems
-and get a real understanding of computer systems, algorithmic efficiency, data structure performance,
-low-level languages, and how it all works. And if you don't know any of it, Google won't hire you.
+Я следую этому плану для подготовки к своему интервью в Google. Я занимался web-разработкой, разработкой сервисов и запуском
+стартапов с 1997 года. У меня есть высшее образование в сфере экономики, а не в сфере компьютерных наук. Моя карьера была очень успешной, но я хочу работать в Google. Я хочу развиваться в более крупных системах и реально понять компьютерные системы, эффективность алгоритмов, производительность структур данных, низкоуровневые языки и как это все работает. И если ты ничего из этого не знаешь, Google тебя не наймет.
 
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
 traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
