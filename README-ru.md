@@ -6,14 +6,14 @@
 
 ## Что это?
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
-Это мой план обучения, рассчитанный на несколько месяцев, для переквалификации из вэб-разработчика (самоучка без высшего образования в сфере компьютерных технологий) в разработчика программного обеспечения в Гугл.
+Это мой план обучения, рассчитанный на несколько месяцев, для переквалификации из вэб-разработчика (самоучка без высшего образования
+в сфере компьютерных технологий) в разработчика программного обеспечения в Гугл.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know.
-There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from
-Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected
+Этот длиный список был извлечен из **Google's coaching notes** и расширен. Таким образом это те вещи, которые Вам необходимо знать.
+В конце я добавил несколько дополнительных пунктов, которые могут встретиться на интервью или быть полезными при решении проблем.
+Many items are from Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected
 sometimes word-for-word in Google's coaching notes.
 
 ---
