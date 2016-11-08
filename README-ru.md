@@ -13,7 +13,6 @@
 
 Этот длиный список был извлечен из **Google's coaching notes** и расширен. Таким образом, это те вещи, которые тебе необходимо знать.
 В конце я добавил несколько дополнительных пунктов, которые могут встретиться на интервью или быть полезными при решении проблем.
-Many items are from Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected sometimes word-for-word in Google's coaching notes.
 Многие вещи взяты из "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" от Steve Yegge и, порой, дословно повторяют заметки по коучингу от Google.
 
 ---
