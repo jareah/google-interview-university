@@ -1,4 +1,4 @@
-# Университет интервью в Гугл
+# Университет интервью в Google
 
 Переводы:
 - [中文版本](https://github.com/jareah/google-interview-university/blob/master/README-cn.md)
@@ -7,60 +7,60 @@
 ## Что это?
 
 Это мой план обучения, рассчитанный на несколько месяцев, для переквалификации из вэб-разработчика (самоучка без высшего образования
-в сфере компьютерных технологий) в разработчика программного обеспечения в Гугл.
+в сфере компьютерных технологий) в разработчика программного обеспечения в Google.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-Этот длиный список был извлечен из **Google's coaching notes** и расширен. Таким образом, это те вещи, которые Вам необходимо знать.
+Этот длиный список был извлечен из **Google's coaching notes** и расширен. Таким образом, это те вещи, которые тебе необходимо знать.
 В конце я добавил несколько дополнительных пунктов, которые могут встретиться на интервью или быть полезными при решении проблем.
 Many items are from Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected
 sometimes word-for-word in Google's coaching notes.
 
 ---
 
-## Table of Contents
+## Содержание
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Get in a Googley Mood](#get-in-a-googley-mood)
-- [Did I Get the Job?](#did-i-get-the-job)
-- [Follow Along with Me](#follow-along-with-me)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [About Google](#about-google)
-- [About Video Resources](#about-video-resources)
-- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-- [Pick One Language for the Interview](#pick-one-language-for-the-interview)
-- [Before you Get Started](#before-you-get-started)
+- [Что это?](#what-is-it)
+- [Почему этим следует пользоваться?](#why-use-it)
+- [Как этим пользоваться](#how-to-use-it)
+- [Настройся на Google-настроение](#get-in-a-googley-mood)
+- [Получил ли я работу?](#did-i-get-the-job)
+- [Следуй за мной](#follow-along-with-me)
+- [Не думай, что ты не достаточно умен](#dont-feel-you-arent-smart-enough)
+- [О Google](#about-google)
+- [О видео ресурсах](#about-video-resources)
+- [Прохождение интервью и подготовка к нему](#interview-process--general-interview-prep)
+- [Выбери для интервью один язык](#pick-one-language-for-the-interview)
+- [Прежде чем начать](#before-you-get-started)
 - [What you Won't See Covered](#what-you-wont-see-covered)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
-- [The Daily Plan](#the-daily-plan)
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
+- [Необходимые базовые знания](#prerequisite-knowledge)
+- [Ежедневный план](#the-daily-plan)
+- [Сложность алоритмов / Big-O / Анализ алгоритмов](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [Структуры данных](#data-structures)
     - [Arrays](#arrays)
     - [Linked Lists](#linked-lists)
     - [Stack](#stack)
     - [Queue](#queue)
     - [Hash table](#hash-table)
-- [More Knowledge](#more-knowledge)
-    - [Binary search](#binary-search)
+- [Дополнительные знания](#more-knowledge)
+    - [Двоичный поиск](#binary-search)
     - [Bitwise operations](#bitwise-operations)
-- [Trees](#trees)
+- [Деревья](#trees)
     - [Trees - Notes & Background](#trees---notes--background)
     - [Binary search trees: BSTs](#binary-search-trees-bsts)
     - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
     - [Tries](#tries)
     - [Balanced search trees](#balanced-search-trees)
     - [N-ary (K-ary, M-ary) trees](#n-ary-k-ary-m-ary-trees)
-- [Sorting](#sorting)
+- [Сортировка](#sorting)
 - [Graphs](#graphs)
-- [Even More Knowledge](#even-more-knowledge)
-    - [Recursion](#recursion)
-    - [Dynamic Programming](#dynamic-programming)
-    - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
+- [Еще больше знаний](#even-more-knowledge)
+    - [Рекурсия](#recursion)
+    - [Динамическое программирование](#dynamic-programming)
+    - [Комбинаторика (n choose k) и вероятность](#combinatorics-n-choose-k--probability)
     - [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
     - [Caches](#caches)
-    - [Processes and Threads](#processes-and-threads)
+    - [Процессы и потоки](#processes-and-threads)
     - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling)
     - [Papers](#papers)
     - [Testing](#testing)
