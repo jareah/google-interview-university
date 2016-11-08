@@ -21,7 +21,7 @@ sometimes word-for-word in Google's coaching notes.
 ## Содержание
 
 - [Что это?](#что-это)
-- [Почему этим следует пользоваться?](#why-use-it)
+- [Почему этим следует пользоваться?](#почему-этим-следует-пользоваться)
 - [Как этим пользоваться](#how-to-use-it)
 - [Настройся на Google-настроение](#get-in-a-googley-mood)
 - [Получил ли я работу?](#did-i-get-the-job)
@@ -120,7 +120,7 @@ sometimes word-for-word in Google's coaching notes.
 
 ---
 
-## Why use it?
+## Почему этим следует пользоваться?
 
 I'm following this plan to prepare for my Google interview. I've been building the web, building
 services, and launching startups since 1997. I have an economics degree, not a CS degree.  I've
