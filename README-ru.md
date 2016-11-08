@@ -25,7 +25,7 @@
 - [Настройся на Google-настроение](#get-in-a-googley-mood)
 - [Получил ли я работу?](#did-i-get-the-job)
 - [Следуй за мной](#follow-along-with-me)
-- [Не думай, что ты не достаточно умен](#dont-feel-you-arent-smart-enough)
+- [Не думайте, что Вы не достаточно умны](#dont-feel-you-arent-smart-enough)
 - [О Google](#about-google)
 - [О видео ресурсах](#about-video-resources)
 - [Прохождение интервью и подготовка к нему](#interview-process--general-interview-prep)
