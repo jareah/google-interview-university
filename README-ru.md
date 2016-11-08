@@ -21,9 +21,9 @@
 
 - [Что это](#Что-это)
 - [Почему этим следует пользоваться](#Почему-этим-следует-пользоваться)
-- [Как этим пользоваться](#how-to-use-it)
-- [Настройся на Google-настроение](#get-in-a-googley-mood)
-- [Получил ли я работу?](#did-i-get-the-job)
+- [Как этим пользоваться](#Как-этим-пользоваться)
+- [Настройся на Google-настроение](#Настройся-на-Google-настроение)
+- [Получил ли я работу](#Получил-ли-я-работу)
 - [Следуй за мной](#follow-along-with-me)
 - [Не думайте, что Вы не достаточно умны](#dont-feel-you-arent-smart-enough)
 - [О Google](#about-google)
@@ -157,13 +157,13 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## Get in a Googley Mood
+## Настройся на Google-настроение
 
 Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.
 
 [![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
-## Did I Get the Job?
+## Получил ли я работу
 
 I haven't applied yet.
 
