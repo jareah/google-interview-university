@@ -20,7 +20,7 @@ sometimes word-for-word in Google's coaching notes.
 
 ## Содержание
 
-- [Что это?](#Что это)
+- [Что это?](#что-это)
 - [Почему этим следует пользоваться?](#why-use-it)
 - [Как этим пользоваться](#how-to-use-it)
 - [Настройся на Google-настроение](#get-in-a-googley-mood)
